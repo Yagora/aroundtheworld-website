@@ -1,0 +1,56 @@
+html {
+	padding: 0px;
+	margin: 0px;
+	height: 100%;
+}
+body {
+	height: 100%;
+	padding: 0px;
+	margin: 0px;
+	background-color: #dcdcdc;
+	font-family: 'Lobster', cursive;
+}
+ul {
+	list-style-type: none;
+}
+a {
+	color: #fff;
+	text-decoration: none; 
+}
+a:hover {
+	color: #d08a34;
+}
+#iframe {
+	width: 100%;
+	min-height: 100vh;
+	border: none;
+}
+#menu {
+	background-color: #0C6483;
+	height: 53px;
+    width: 100%;
+    color: #fff;
+    margin: 0px;
+    padding: 0px;
+}
+#menu-list {
+	width: 1024px;
+    margin: 0 auto;
+}
+#menu-list li {
+	float: left;
+    font-size: 150%;
+    margin-left: 100px;
+    padding-top: 10px;
+}
+#instagram {
+	width: 612px;
+	margin: 0 auto;
+}
+#twitter {
+	width: 939px;
+	margin: 0 auto;
+}
+#youtube {
+	height: 100%;
+}
